@@ -1,0 +1,11 @@
+{
+  "name": "typescript-podstawowy",
+  "version": "1.0.0",
+  "description": "Kurs TypeScript - Podstawowy z Eduweb.pl",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Paweł Sioda",
+  "license": "ISC"
+}
